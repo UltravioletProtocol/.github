@@ -1,6 +1,6 @@
-## The Ultraviolet protocol
+## The Eclypse protocol
 
-Ultraviolet pioneers UniV3 LP collateralisation and yield strategies.
+Eclypse pioneers UniV3 LP collateralisation and yield strategies.
 
 ## Contact us
 
